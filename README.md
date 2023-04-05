@@ -15,7 +15,7 @@ I have performed the following steps:
     
     c. Used otu_labels as the hovertext for the chart.
 
-https://static.bc-edx.com/data/dl-1-2/m14/lms/img/hw01.jpg![image](https://user-images.githubusercontent.com/120350694/230218153-b8fd604d-51d4-4065-92ad-094c93836d65.png)
+
 
 3. Created a bubble chart that displays each sample.
     a. Used otu_ids for the x values.
@@ -28,12 +28,12 @@ https://static.bc-edx.com/data/dl-1-2/m14/lms/img/hw01.jpg![image](https://user-
     
     e. Used otu_labels for the text values.
     
-    https://static.bc-edx.com/data/dl-1-2/m14/lms/img/bubble_chart.jpg![image](https://user-images.githubusercontent.com/120350694/230218346-0dcd50cc-ce8c-4231-908e-5092a48b19dd.png)
+    
 
 4. Displayed the sample metadata, i.e., an individual's demographic information.
 
 5. Displayed each key-value pair from the metadata JSON object somewhere on the page.
 
-https://static.bc-edx.com/data/dl-1-2/m14/lms/img/hw03.jpg![image](https://user-images.githubusercontent.com/120350694/230218731-e19386b3-4b53-42a0-826a-ea67bf8d09cf.png)
+
 
 6. Updated all the plots when a new sample is selected. 

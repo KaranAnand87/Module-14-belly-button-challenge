@@ -9,6 +9,31 @@ I have performed the following steps:
 1. Used the D3 library to read in samples.json from the URL https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json.
 
 2. Created a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
-    Use sample_values as the values for the bar chart.
-    Use otu_ids as the labels for the bar chart.
-    Use otu_labels as the hovertext for the chart.
+    a. Used sample_values as the values for the bar chart.
+    
+    b. Used otu_ids as the labels for the bar chart.
+    
+    c. Used otu_labels as the hovertext for the chart.
+
+https://static.bc-edx.com/data/dl-1-2/m14/lms/img/hw01.jpg![image](https://user-images.githubusercontent.com/120350694/230218153-b8fd604d-51d4-4065-92ad-094c93836d65.png)
+
+3. Created a bubble chart that displays each sample.
+    a. Used otu_ids for the x values.
+    
+    b. Used sample_values for the y values.
+    
+    c. Used sample_values for the marker size.
+    
+    d. Used otu_ids for the marker colors.
+    
+    e. Used otu_labels for the text values.
+    
+    https://static.bc-edx.com/data/dl-1-2/m14/lms/img/bubble_chart.jpg![image](https://user-images.githubusercontent.com/120350694/230218346-0dcd50cc-ce8c-4231-908e-5092a48b19dd.png)
+
+4. Displayed the sample metadata, i.e., an individual's demographic information.
+
+5. Displayed each key-value pair from the metadata JSON object somewhere on the page.
+
+https://static.bc-edx.com/data/dl-1-2/m14/lms/img/hw03.jpg![image](https://user-images.githubusercontent.com/120350694/230218731-e19386b3-4b53-42a0-826a-ea67bf8d09cf.png)
+
+6. Updated all the plots when a new sample is selected. 
